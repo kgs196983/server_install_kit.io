@@ -7,6 +7,7 @@ git clone https://github.com/kgs196983/server_install_kit.io.git
 [Download](https://github.com/kgs196983/server_install_kit.io/releases)  
 ##如何使用  
 使用下载的脚本  
+想改仓库改hub文件夹就行了  
 ##反馈BUG？  
 请到issues[传送门](https://github.com/kgs196983/server_install_kit.io/issues)  
 ##@ME  
